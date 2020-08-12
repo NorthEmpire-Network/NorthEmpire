@@ -1,0 +1,2 @@
+# NorthEmpire
+Magyar Minecraft Szerverközösség
