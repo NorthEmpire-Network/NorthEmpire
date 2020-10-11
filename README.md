@@ -1,4 +1,4 @@
-# NorthEmpire
+# NorthEmpire Network
 Magyar Minecraft Szerverközösség
 
 ## Hibajegy létrehozása:
