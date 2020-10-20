@@ -1,5 +1,6 @@
 # NorthEmpire Network
 Magyar Minecraft Szerverközösség
+
 Hungarian Minecraft Server Network
 
 ## Hibajegy létrehozása:
